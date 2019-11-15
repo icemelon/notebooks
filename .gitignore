@@ -1,0 +1,5 @@
+*.swp
+*~
+*py[cdo]
+__pycache__
+.ipynb_checkpoints
